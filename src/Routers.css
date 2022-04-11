@@ -1,0 +1,6 @@
+.fullPage{
+    display: flex;
+    gap: 50px;
+    min-width: 100vh;
+    min-height: 100vh;
+}
